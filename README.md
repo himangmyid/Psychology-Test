@@ -1,6 +1,11 @@
 # Psychology-Test
 Psychology Test
 
+<p align="center">
+  <a href="https://github.com/himangmyid/Psychology-Test">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himangmyid&repo=Psychology-Test&theme=tokyonight" alt="GitHub Repo Card">
+  </a>
+</p>
 
 Sebelum Anda mengisi formulir, silakan baca pesan berikut:
 
